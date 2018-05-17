@@ -1,0 +1,22 @@
+{
+  "name": "HideKeyboardAccessory",
+  "version": "0.2.0",
+  "summary": "A simple way to localize iOS apps",
+  "description": "A simple way to localize iOS apps. Allow localize UI on storyboard and source code",
+  "homepage": "https://github.com/dmanuelcl/HideKeyboardAccessory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dani Manuel Céspedes Lara": "dmanuelcl@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dmanuelcl/HideKeyboardAccessory.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HideKeyboardAccessory/Classes/**/*"
+}

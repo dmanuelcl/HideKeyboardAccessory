@@ -1,0 +1,16 @@
+PODS:
+  - HideKeyboardAccessory (0.1.0)
+
+DEPENDENCIES:
+  - HideKeyboardAccessory (from `../`)
+
+EXTERNAL SOURCES:
+  HideKeyboardAccessory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HideKeyboardAccessory: 6b0ca7c66cae1cb6fc39971c0957fcc9cdbf18f9
+
+PODFILE CHECKSUM: d8c217b14ef3d521fea1492c87d13cb4bb6d7ea7
+
+COCOAPODS: 1.5.0
