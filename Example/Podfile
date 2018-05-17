@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HideKeyboardAccessory_Example' do
+  pod 'HideKeyboardAccessory', :path => '../'
+
+  target 'HideKeyboardAccessory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

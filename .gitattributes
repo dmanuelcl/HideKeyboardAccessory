@@ -1,0 +1,2 @@
+*.swift linguist-language=Swift
+Example/Pods/* linguist-vendored
