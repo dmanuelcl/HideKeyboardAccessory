@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HideKeyboardAccessory'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Show an input accessory view allowing hide the keyboard on UITextFiled and UITextView'
 
   s.description      = <<-DESC
