@@ -2,10 +2,10 @@
 Pod::Spec.new do |s|
   s.name             = 'HideKeyboardAccessory'
   s.version          = '0.1.1'
-  s.summary          = 'Show an input accessory view allowing hide the keyboard on UITextFiled and UITextView'
+  s.summary          = 'Show an input accessory view allowing hide the keyboard'
 
   s.description      = <<-DESC
-Show an input accessory view allowing hide the keyboard on UITextFiled and UITextView
+Show an input accessory view on UITextFiled and UITextView allowing hide the keyboard
                        DESC
 
   s.homepage         = 'https://github.com/dmanuelcl/HideKeyboardAccessory'
